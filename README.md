@@ -1,7 +1,7 @@
 # Introduction
 Tired of using the plain old gdb command-line interface to debug your Go/C/C++ applications? Godbg is a graphical web-based front-end for gdb!
 
-The web-based UI makes godbg multi-platform and allows you to more easily remotely access your debug sessions.
+The web-based UI makes godbg multi-platform and allows for easier remote access your debug sessions.
 
 # Features
 * Thread information
